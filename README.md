@@ -1,52 +1,30 @@
-![](https://es.wikipedia.org/wiki/Archivo:Tecnologico_Nacional_de_Mexico.svg)
+![Cool Text - Ing Sistemas Computacionales 404062028311323](https://user-images.githubusercontent.com/71794209/153320207-4ff50648-33eb-4626-8f44-7437b8279dc0.jpg)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+### Hola amigos 👋
 
+Gracias por visitar mi perfil ✨ Saul Alejandro Moreno ✨.
 
-![](GHLogoTMP.png)
+Actualmente estudiando en el Instituto Tecnologico de Tijuana:
 
-### Hola colegas 👋
+- 🔭 Bachillerato terminado y cursando actualmente una carrera. 
+- 📲 Conocimiento amplio en varios Software de programacion.
+- 🤔 Github es una herramienta muy buena cuando tienes nos beneficios PRO✨.
+- 💬 Con capacidad de aprendizaje rapido y orientado a trabajar en equipo.
+- 📫 Siempre atento a mensajes desde diversas redes sociales, como las indicadas en mi descripcion.
+- 😄 Dispuesto a salidas entre amigos cuando inviten. 
+- ⚡ Rapida respespuesta ante situaciones que lo ameriten.
 
-
-Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
-
-Atendiendo estudiantes de PFLC y TecTijuana:
-
-- 🔭 En bachillerato con informática 1 y 2 básica 
-- 🖥 ... y capacitación al trabajo con ITICS
-- 📲 Diversas materias el TecNM para ISC, LI y ITICS
-- 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
-- 💬 Asimismo los docentes del ambas escuelas son invitados para usarlo 
-- 📫 Todo inicia con activarlo via GitHub Starter pack son unos 70 dlls de beca por comprobar con correo institucional 
-- 😄 Y con Github Classroom apoyar al estudiante para ser efectivo en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y embedded 
-- ⚡ Sabias: Soy exalumno de la PFLC y del TEC !
-
-Licenciamiento para los cursos:
-- Apple University Programm beca de 200 dispositivo iOS
-- Amazon Web Services AWSEducate beca de $50 dlls estudiantes y $200 dlls a 👩‍🏫 docentes 
-- Jetbrains Suite completo de beca $450 dlls
+Un poco mas de mi:
+- Otro tipo de conocimientos avanzados, inclinado a Exel con un conocimiento profesional, paquteria Office con un conocieminto avanzado.
+- Experiencia en aseguramientos de calidad y supervision de operaciones.
+- Manejo de distintas herramientas para garantizar la seguridad de informacion en linea y externa.
 
 
-Inventario maker para cursos
-- Arduino clasico
-- STM32
-- RaspberryPi 
-- kit de sensores y herramientas soldar
+Actividades actuales
 
+| Actividad 	|     Escuela   	|      Laboral  	|
+|-----------	|:--------------:	| :------------:	|
+| Horario     | 13:00 a 19:00 	|  08:00 a 13:00 	|
+| Demanda     |      Alta      	|    Muy Alta   	|
 
-
-Ejemplo Tablas en MD
-
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
-
-Guias:
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
-PARA CREAR TABLAS
-Cooltext.com
-
-https://www.tablesgenerator.com/markdown_tables. 
+✨✨✨Gracias por visistar✨✨✨
