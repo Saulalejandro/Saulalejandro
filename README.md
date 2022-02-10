@@ -8,7 +8,7 @@ Actualmente estudiando en el Instituto Tecnologico de Tijuana:
 
 - 🔭 Bachillerato terminado y cursando actualmente una carrera. 
 - 📲 Conocimiento amplio en varios Software de programacion.
-- 🤔 Github es una herramienta muy buena cuando tienes nos beneficios PRO✨.
+- 🤔 Github es una herramienta muy buena cuando tienes los beneficios PRO✨.
 - 💬 Con capacidad de aprendizaje rapido y orientado a trabajar en equipo.
 - 📫 Siempre atento a mensajes desde diversas redes sociales, como las indicadas en mi descripcion.
 - 😄 Dispuesto a salidas entre amigos cuando inviten. 
