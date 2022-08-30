@@ -25,6 +25,6 @@ Actividades actuales
 | Actividad 	|     Escuela   	|      Trabajo  	|
 |-----------	|:--------------:	| :------------:	|
 | Horario     | 13:00 a 20:00 	|  12:00 a 20:00 	|
-| Demanda     |      Alta :(   	|    Muy Alta   	|
+| Demanda     |      Alta :(   	|   Muy Alta :,c 	|
 
 ✨✨✨Gracias por visistar y saludos!!!✨✨✨
