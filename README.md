@@ -22,9 +22,9 @@ Un poco mas de mi:
 
 Actividades actuales
 
-| Actividad 	|     Escuela   	|      Laboral  	|
+| Actividad 	|     Escuela   	|      Trabajo  	|
 |-----------	|:--------------:	| :------------:	|
-| Horario     | 13:00 a 19:00 	|  08:00 a 13:00 	|
-| Demanda     |      Alta      	|    Muy Alta   	|
+| Horario     | 13:00 a 20:00 	|  12:00 a 20:00 	|
+| Demanda     |      Alta :(   	|    Muy Alta   	|
 
-✨✨✨Gracias por visistar✨✨✨
+✨✨✨Gracias por visistar y saludos!!!✨✨✨
